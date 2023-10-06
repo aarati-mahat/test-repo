@@ -1,6 +1,8 @@
 # This is the second Python file for testing
 
 print("Hello again, World!")
-a=3
+a=5
 b=2
 print(a+b)
+
+print("I am adding this extra line of code to the second Python file in the child branch.")
